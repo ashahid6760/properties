@@ -1,0 +1,11 @@
+build:
+ version: "3.0"
+ 
+accounts:
+ message: "Welcome to EazyBank acocunts related local APTs"
+ contactDetails: 
+  name: "Josh Burton"
+ onCallSupport:
+  -4698808968
+  -4698808449
+  

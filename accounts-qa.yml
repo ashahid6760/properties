@@ -1,0 +1,10 @@
+build:
+ version: "2.0"
+ 
+accounts:
+ message: "Welcome to EazyBank acocunts related QA APTs"
+ contactDetails: 
+  name: "Qosh Burton"
+ onCallSupport:
+  -4698808968
+  -4698808449

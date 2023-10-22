@@ -1,0 +1,11 @@
+build:
+ version: "3.0"
+  
+loans:
+ message: "Weclome to Loans Related API"
+ contactDetails:
+  name: "Rodriguez"
+  email: "r@gmail.com"
+ onCallSupport:
+  -4698808777
+  -4698808448

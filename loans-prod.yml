@@ -1,0 +1,12 @@
+build:
+ version: "99.0" 
+loans:
+ message: "Welcome to Eazy bank loan related production API"
+ contactDetails:
+  name: "Abdulla Shahid"
+  email: "ashahid6760@gmail.com"
+ onCallSupport:
+  - 7500799701
+  - 7379787637
+  
+  

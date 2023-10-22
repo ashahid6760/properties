@@ -1,0 +1,12 @@
+build:
+ version: "11.0"
+ 
+contacts:
+ message: "Welcome to Cards Microservice qa Api."
+ contactDetails: 
+  name: "Application_qa.yml"
+  email: "cards.application_qa.yml"
+ phoneNumber:
+  - 4698808968
+  - 4698808449 
+  

@@ -1,0 +1,11 @@
+build:
+ version: "7.0"
+ 
+loans:
+ message: "Welcome to Eazy bank loans realted qa APT"
+ contactDetails:
+  name: "Abdulla Shahid qa"
+  email: "ashahid@qatester.com"
+ onCallSupport:
+  -4698808968
+  -978767367

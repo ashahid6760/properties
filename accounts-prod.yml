@@ -1,0 +1,10 @@
+build:
+ version: "1.0"
+ 
+accounts:
+ message: "Welcome to EazyBank acocunts related local production APTs"
+ contactDetails: 
+  name: "Posh Burton"
+ onCallSupport:
+  -4698808968
+  -4698808449
