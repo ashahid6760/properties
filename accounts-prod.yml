@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
- message: "Welcome to EazyBank acocunts related local production APTs"
+ message: "Welcome to EazyBank acocunts related local production APTs updated"
  contactDetails: 
   name: "Posh Burton"
  onCallSupport:
