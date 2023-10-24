@@ -1,7 +1,7 @@
 build:
  version: "99.0" 
 loans:
- message: "Welcome to Eazy bank loan related production API"
+ message: "Welcome to Eazy bank loan related production API updated"
  contactDetails:
   name: "Abdulla Shahid"
   email: "ashahid6760@gmail.com"
