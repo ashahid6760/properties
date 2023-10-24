@@ -2,7 +2,7 @@ build:
  version: "3.0"
  
 contacts:
- message: "Welcome to Cards Microservice Api."
+ message: "Welcome to Cards Microservice Api updated."
  contactDetails: 
   name: "Application_prod.yml"
   email: "cards.application_prod.yml"
